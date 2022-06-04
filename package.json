@@ -1,0 +1,27 @@
+{
+  "name": "bot-igeh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/collection": "^0.4.0",
+    "axios": "^0.25.0",
+    "cfonts": "^2.10.1",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "consola": "^2.15.3",
+    "didyoumean": "^1.2.2",
+    "inquirer": "^8.2.0",
+    "instagram_mqtt": "^1.2.2",
+    "instagram-id-to-url-segment": "0.0.0",
+    "instagram-private-api": "^1.45.2",
+    "node-fetch": "^2.6.1",
+    "spinnies": "^0.5.1"
+  }
+}
